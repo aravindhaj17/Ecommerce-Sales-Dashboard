@@ -13,6 +13,7 @@ Profitability by sub-categories
 
 This interactive dashboard helps decision-makers understand key metrics and make data-driven strategies to improve profitability and customer experience.
 
+
 📁 Dataset Used
 Source: Sample Superstore Dataset (adapted for e-commerce scenario)
 
@@ -32,7 +33,10 @@ Payment mode
 
 State/Region
 
-📊 Project Insights
+
+
+📊 Project Insights 
+
 🛒 Clothing is the most purchased category (68% of quantity).
 
 🏆 Delhi leads in total sales amount.
@@ -44,6 +48,8 @@ State/Region
 👤 Customers like Mohanraj and Ajay contribute significantly to total revenue.
 
 🔍 Bookcases and Phones drive the highest profit margins in their sub-categories.
+
+
 
 🧾 Final Conclusion
 This Power BI dashboard provides a comprehensive view of the business's sales and profitability, making it easier to:
